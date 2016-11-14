@@ -9,7 +9,7 @@ package ua.mycompany.generalarea.entities;
  *
  * @author Igor Gayvan
  */
-public class Rectangle extends Shape {
+public class Rectangle implements Shape {
 
     private double width, height;
 

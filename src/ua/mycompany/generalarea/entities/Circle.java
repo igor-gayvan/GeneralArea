@@ -9,7 +9,7 @@ package ua.mycompany.generalarea.entities;
  *
  * @author Igor Gayvan
  */
-public class Circle extends Shape {
+public class Circle implements Shape {
 
     private double radius;
 

@@ -9,7 +9,8 @@ package ua.mycompany.generalarea.entities;
  *
  * @author Igor Gayvan
  */
-public abstract class Shape {
+//public abstract class Shape {
+public abstract interface Shape {
 
     public abstract double area();
 

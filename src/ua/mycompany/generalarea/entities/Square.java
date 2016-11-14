@@ -9,7 +9,7 @@ package ua.mycompany.generalarea.entities;
  *
  * @author Igor Gayvan
  */
-public class Square extends Shape {
+public class Square implements Shape {
 
     private double sideLength;
 
